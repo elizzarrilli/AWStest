@@ -53,6 +53,9 @@ DRY = "Don't repeat yourself"
 
 print(add_nums(add_nums(1,2)+2),add_nums(2,3))
 
+for i in range(10):
+	print(i)
+
 
 
 
