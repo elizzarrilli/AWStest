@@ -51,6 +51,8 @@ print(add_nums(1,2))
 
 DRY = "Don't repeat yourself"
 
+print(add_nums(add_nums(1,2)+2),add_nums(2,3))
+
 
 
 
